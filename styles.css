@@ -1,0 +1,44 @@
+
+body.home-background {
+    background-image: url('/static/eg_ejust2.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 18px;
+}
+
+
+.directions {
+    font-size: 24px; 
+    font-weight: bold;
+    color: #007bff;
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333; 
+    text-align: center; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    margin-bottom: 30px; 
+}
+
+
+button {
+    font-size: 20px; 
+    padding: 10px 20px; 
+    background-color: #007bff; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; 
+}
+
+button:hover {
+    background-color: #0056b3; 
+}
